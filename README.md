@@ -1,10 +1,10 @@
-# Sahayogi-kisan
+# Sahayogi-kisaan
 
 Description:
-Sahayogi Kishan is an innovative web platform dedicated to empowering farmers in Karnataka by offering them essential agricultural resources and real-time stock availability information. The platform aims to bridge the gap between farmers and rural societies by providing accurate and timely information about the availability of farming supplies such as fertilizers, wheat, and rice. By ensuring transparency and accessibility, Sahayogi Kishan plays a crucial role in helping farmers make informed decisions, plan their agricultural activities efficiently, and minimize uncertainties in resource procurement.
+Sahayogi Kisaan is an innovative web platform dedicated to empowering farmers in Karnataka by offering them essential agricultural resources and real-time stock availability information. The platform aims to bridge the gap between farmers and rural societies by providing accurate and timely information about the availability of farming supplies such as fertilizers. By ensuring transparency and accessibility, Sahayogi Kisaan plays a crucial role in helping farmers make informed decisions, plan their agricultural activities efficiently, and minimize uncertainties in resource procurement.
 
 Addressing Challenges in Agriculture:
-Farmers in Karnataka often face challenges related to the availability of farming resources. They frequently have to visit multiple societies or rely on intermediaries to check stock availability, which results in time-consuming and inefficient procurement. Additionally, fluctuations in supply and demand lead to inconsistencies in agricultural planning. Sahayogi Kishan eliminates these inefficiencies by digitizing stock availability updates and ensuring farmers have easy access to necessary agricultural inputs at the right time.
+Farmers in Karnataka often face challenges related to the availability of farming resources. They frequently have to visit multiple societies or rely on intermediaries to check stock availability, which results in time-consuming and inefficient procurement. Additionally, fluctuations in supply and demand lead to inconsistencies in agricultural planning. Sahayogi Kisaan eliminates these inefficiencies by digitizing stock availability updates and ensuring farmers have easy access to necessary agricultural inputs at the right time.
 
 Key Features of Sahayogi Kishan:
 
@@ -16,7 +16,7 @@ Key Features of Sahayogi Kishan:
 
 4. Resource Guides and Agricultural Best Practices: The platform also provides educational content on efficient farming techniques, soil health management, and crop rotation strategies.
 
-5. Accessibility and Language Support: Sahayogi Kishan is designed to support regional languages, making it accessible to a wider audience of farmers.
+5. Accessibility and Language Support: Sahayogi Kisaan is designed to support regional languages, making it accessible to a wider audience of farmers.
 
 6. Farmer Support Services: Contact and support sections allow farmers to ask queries and get assistance regarding stock updates and procurement processes.
 
