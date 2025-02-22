@@ -1,0 +1,38 @@
+{
+  "nav": {
+    "inventory": "ದಾಸ್ತಾನು",
+    "prices": "ಬೆಲೆ ಹೋಲಿಕೆ",
+    "schemes": "ಸರ್ಕಾರಿ ಯೋಜನೆಗಳು",
+    "weather": "ಹವಾಮಾನ ಮಾಹಿತಿ",
+    "forum": "ಸಮುದಾಯ ವೇದಿಕೆ",
+    "equipment": "ಕೃಷಿ ಉಪಕರಣಗಳು"
+  },
+  "inventory": {
+    "available": "ಲಭ್ಯವಿರುವ ವಸ್ತುಗಳು",
+    "outOfStock": "ದಾಸ್ತಾನು ಮುಗಿದಿದೆ",
+    "lowStock": "ಕಡಿಮೆ ದಾಸ್ತಾನು",
+    "inStock": "ದಾಸ್ತಾನು ಇದೆ"
+  },
+  "stock": {
+    "inStock": "ದಾಸ್ತಾನು ಇದೆ",
+    "lowStock": "ಕಡಿಮೆ ದಾಸ್ತಾನು",
+    "outOfStock": "ದಾಸ್ತಾನು ಮುಗಿದಿದೆ"
+  },
+  "actions": {
+    "navigate": "ನ್ಯಾವಿಗೇಟ್",
+    "review": "ವಿಮರ್ಶೆ ಬರೆಯಿರಿ",
+    "compare": "ಬೆಲೆಗಳನ್ನು ಹೋಲಿಸಿ",
+    "chat": "AI ಸಹಾಯಕರೊಂದಿಗೆ ಚಾಟ್"
+  },
+  "schemes": {
+    "available": "ಲಭ್ಯವಿರುವ ಯೋಜನೆಗಳು",
+    "apply": "ಅರ್ಜಿ ಸಲ್ಲಿಸಿ",
+    "viewDetails": "ವಿವರಗಳನ್ನು ನೋಡಿ"
+  },
+  "weather": {
+    "forecast": "ಹವಾಮಾನ ಮುನ್ಸೂಚನೆ",
+    "temperature": "ತಾಪಮಾನ",
+    "humidity": "ಆರ್ದ್ರತೆ",
+    "rainfall": "ಮಳೆ"
+  }
+}

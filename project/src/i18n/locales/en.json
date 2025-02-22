@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "inventory": "Inventory",
+    "societies": "Societies",
+    "prices": "Price Comparison",
+    "schemes": "Government Schemes",
+    "weather": "Weather Updates",
+    "forum": "Community Forum",
+    "equipment": "Farm Equipment"
+  },
+  "inventory": {
+    "available": "Available Items",
+    "outOfStock": "Out of Stock",
+    "lowStock": "Low Stock",
+    "inStock": "In Stock",
+    "search": "Search inventory...",
+    "filter": {
+      "all": "All Items",
+      "inStock": "In Stock",
+      "lowStock": "Low Stock",
+      "outOfStock": "Out of Stock"
+    }
+  },
+  "stock": {
+    "inStock": "In Stock",
+    "lowStock": "Low Stock",
+    "outOfStock": "Out of Stock"
+  },
+  "actions": {
+    "navigate": "Navigate",
+    "review": "Write Review",
+    "compare": "Compare Prices",
+    "chat": "Chat with AI Assistant"
+  },
+  "schemes": {
+    "available": "Available Schemes",
+    "apply": "Apply Now",
+    "viewDetails": "View Details"
+  },
+  "weather": {
+    "forecast": "Weather Forecast",
+    "temperature": "Temperature",
+    "humidity": "Humidity",
+    "rainfall": "Rainfall"
+  },
+  "home": {
+    "subtitle": "Connecting Karnataka's farmers with local agricultural societies",
+    "exploreSocieties": "Explore Societies",
+    "features": {
+      "sustainable": "Sustainable Farming",
+      "sustainableDesc": "Access to eco-friendly farming practices and resources",
+      "community": "Community Support",
+      "communityDesc": "Connect with local farmers and share knowledge",
+      "weather": "Weather Updates",
+      "weatherDesc": "Real-time weather forecasts for better planning"
+    },
+    "stats": {
+      "societies": "Rural Societies",
+      "farmers": "Active Farmers",
+      "products": "Agricultural Products",
+      "districts": "Districts Covered"
+    }
+  }
+}
