@@ -7,6 +7,7 @@ Agriculture is the backbone of India, yet farmers often struggle with unreliable
 With Sahayogi Kisaan, farmers no longer need to rely on guesswork or middlemen to procure supplies. By leveraging technology, we empower farmers with instant access to accurate stock availability, educational resources, and best farming practices, ensuring they can make informed decisions, reduce procurement inefficiencies, and maximize productivity.
 
 🌾 How Does Sahayogi Kisaan Help Farmers?
+
 ✅ Eliminates Uncertainty – Farmers can check stock availability before visiting societies, reducing unnecessary trips.
 
 ✅ Enhances Transparency – Direct access to stock information reduces dependency on intermediaries, ensuring fair pricing.
@@ -26,9 +27,14 @@ With Sahayogi Kisaan, farmers no longer need to rely on guesswork or middlemen t
 
 🔮 Future Vision
 Sahayogi Kisaan is more than just an information portal—it’s a movement towards digital empowerment in agriculture. As we continue to develop, our vision includes:
+
 🌟 Mobile App Expansion – Bringing stock updates and alerts directly to farmers' phones.
+
 🌟 AI-Driven Insights – Predicting stock trends to help farmers plan ahead.
+
 🌟 Government Scheme Integration – Connecting farmers with subsidy programs effortlessly.
+
 🌟 Weather & Market Price Updates – Providing critical farming insights beyond stock availability.
+
 
 By embracing technology-driven solutions, Sahayogi Kisaan is paving the way for a smarter, more efficient, and sustainable agricultural future in India. 🌾🚜
