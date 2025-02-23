@@ -8,10 +8,15 @@ With Sahayogi Kisaan, farmers no longer need to rely on guesswork or middlemen t
 
 🌾 How Does Sahayogi Kisaan Help Farmers?
 ✅ Eliminates Uncertainty – Farmers can check stock availability before visiting societies, reducing unnecessary trips.
+
 ✅ Enhances Transparency – Direct access to stock information reduces dependency on intermediaries, ensuring fair pricing.
+
 ✅ Saves Time & Effort – No more wasting hours searching for essential inputs.
+
 ✅ Improves Planning – Farmers can plan their agricultural activities efficiently with timely resource availability.
+
 ✅ Increases Productivity – Access to the right inputs at the right time leads to better yields and improved profitability.
+
 
 🚜 Who Can Use Sahayogi Kisaan?
 -> Farmers – Looking for real-time updates on agricultural inputs.
