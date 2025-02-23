@@ -1,0 +1,88 @@
+{
+  "nav": {
+    "inventory": "Inventory",
+    "societies": "Societies",
+    "prices": "Price Comparison",
+    "schemes": "Government Schemes",
+    "weather": "Weather Updates",
+    "forum": "Community Forum",
+    "equipment": "Farm Equipment"
+  },
+  "home": {
+    "title": "Sahayogi Kishan",
+    "subtitle": "Empowering farmers with real-time information and resources",
+    "exploreSocieties": "Explore Societies",
+    "features": {
+      "sustainable": "Sustainable Farming",
+      "sustainableDesc": "Learn about eco-friendly farming practices",
+      "community": "Community Support",
+      "communityDesc": "Connect with fellow farmers and experts",
+      "weather": "Weather Updates",
+      "weatherDesc": "Get accurate weather forecasts for better planning"
+    },
+    "stats": {
+      "societies": "Rural Societies",
+      "farmers": "Active Farmers",
+      "products": "Available Products",
+      "districts": "Districts Covered"
+    }
+  },
+  "inventory": {
+    "available": "Available Items",
+    "outOfStock": "Out of Stock",
+    "lowStock": "Low Stock",
+    "inStock": "In Stock",
+    "search": "Search inventory...",
+    "filter": {
+      "all": "All Items",
+      "inStock": "In Stock",
+      "lowStock": "Low Stock",
+      "outOfStock": "Out of Stock"
+    }
+  },
+  "equipment": {
+    "details": "Equipment Details",
+    "manufacturer": "Manufacturer",
+    "category": "Category",
+    "specifications": "Specifications",
+    "description": "Description",
+    "stock": "Stock Status",
+    "price": "Price"
+  },
+  "weather": {
+    "current": "Current Weather",
+    "forecast": "Weather Forecast",
+    "temperature": "Temperature",
+    "humidity": "Humidity",
+    "rainfall": "Rainfall",
+    "windSpeed": "Wind Speed",
+    "condition": "Condition",
+    "alerts": "Weather Alerts",
+    "daily": "Daily Forecast"
+  },
+  "chatbot": {
+    "title": "AI Farming Assistant",
+    "placeholder": "Ask about farming, weather, or schemes...",
+    "greeting": "Hello! How can I help you with farming today?",
+    "loading": "Thinking...",
+    "error": "Sorry, I couldn't process your request. Please try again."
+  },
+  "stock": {
+    "inStock": "In Stock",
+    "lowStock": "Low Stock",
+    "outOfStock": "Out of Stock"
+  },
+  "actions": {
+    "navigate": "Navigate",
+    "review": "Write Review",
+    "compare": "Compare Prices",
+    "chat": "Chat with AI Assistant",
+    "details": "View Details",
+    "close": "Close"
+  },
+  "schemes": {
+    "available": "Available Schemes",
+    "apply": "Apply Now",
+    "viewDetails": "View Details"
+  }
+}
