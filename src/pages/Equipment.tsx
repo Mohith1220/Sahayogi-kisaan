@@ -13,7 +13,7 @@ const sampleEquipment: EquipmentType[] = [
     description: 'Modern farming tractor with advanced features',
     price: 750000,
     category: 'Heavy Machinery',
-    image: 'https://images.unsplash.com/photo-1605338198563-840f348cb4db?w=800',
+    image: 'https://th.bing.com/th/id/OIP.b_TQYSCZfA1o8j_lhSfbfgHaE7?rs=1&pid=ImgDetMain',
     stock: 5,
     manufacturer: 'Mahindra'
   },
@@ -23,7 +23,7 @@ const sampleEquipment: EquipmentType[] = [
     description: 'Precision seed planting equipment',
     price: 45000,
     category: 'Planting',
-    image: 'https://images.unsplash.com/photo-1592982537447-6f2a6a0c8b1b?w=800',
+    image: 'https://th.bing.com/th/id/OIP.U9xuSpxjhebhpJnmpsXVywHaE4?rs=1&pid=ImgDetMain',
     stock: 10,
     manufacturer: 'John Deere'
   },
@@ -33,7 +33,7 @@ const sampleEquipment: EquipmentType[] = [
     description: 'Automated irrigation system',
     price: 25000,
     category: 'Irrigation',
-    image: 'https://images.unsplash.com/photo-1589928964725-6a548c613a38?w=800',
+    image: 'https://th.bing.com/th/id/R.be9158d7005254731f241490064549eb?rik=KTZlT7MUgFpuwQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fd%2fd4%2fImpact_Sprinkler_Mechanism_2.jpg&ehk=YhlyEpZDZWyNmoNVZ%2bqH5MasWzIGn1bu0ejWdBoIvq8%3d&risl=&pid=ImgRaw&r=0',
     stock: 15,
     manufacturer: 'Jain Irrigation'
   },
@@ -43,7 +43,7 @@ const sampleEquipment: EquipmentType[] = [
     description: 'Efficient crop harvesting machine',
     price: 900000,
     category: 'Heavy Machinery',
-    image: 'https://images.unsplash.com/photo-1590845947670-c009801ffa74?w=800',
+    image: 'https://www.indofarm.in/wp-content/uploads/2022/05/harvester.jpeg',
     stock: 3,
     manufacturer: 'New Holland'
   }
@@ -82,7 +82,7 @@ export function Equipment() {
 
         <footer className="bg-green-800 dark:bg-green-900 text-white py-4 mt-8">
           <div className="container mx-auto px-4 text-center">
-            <p>© 2024 Sahayogi Kishan</p>
+            <p>© 2025 Sahayogi Kishan</p>
           </div>
         </footer>
       </div>

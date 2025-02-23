@@ -10,7 +10,7 @@ export const societies = [
     inventory: [
       {
         id: '52',
-        name: 'Organic Vegetables',
+        name: 'Organic Vegetables seeds',
         quantity: 1000,
         unit: 'kg',
         price: 60,
@@ -18,7 +18,7 @@ export const societies = [
       },
       {
         id: '53',
-        name: 'Organic Rice',
+        name: 'Organic gobar',
         quantity: 2000,
         unit: 'kg',
         price: 75,
@@ -75,7 +75,7 @@ export const societies = [
     inventory: [
       {
         id: '56',
-        name: 'Fresh Greens',
+        name: 'urea',
         quantity: 300,
         unit: 'kg',
         price: 45,
@@ -94,7 +94,7 @@ export const societies = [
     inventory: [
       {
         id: '57',
-        name: 'Local Rice',
+        name: 'pest',
         quantity: 1500,
         unit: 'kg',
         price: 52,
@@ -113,7 +113,7 @@ export const societies = [
     inventory: [
       {
         id: '1',
-        name: 'Rice',
+        name: 'nitrogen fertilerz ',
         quantity: 1000,
         unit: 'kg',
         price: 45,
@@ -121,7 +121,7 @@ export const societies = [
       },
       {
         id: '2',
-        name: 'Wheat',
+        name: 'organic compunds',
         quantity: 500,
         unit: 'kg',
         price: 35,
@@ -178,7 +178,7 @@ export const societies = [
     inventory: [
       {
         id: '5',
-        name: 'Ragi',
+        name: 'Ragi seeds',
         quantity: 800,
         unit: 'kg',
         price: 40,
@@ -197,7 +197,7 @@ export const societies = [
     inventory: [
       {
         id: '6',
-        name: 'Jowar',
+        name: 'Jowar seeds',
         quantity: 600,
         unit: 'kg',
         price: 35,

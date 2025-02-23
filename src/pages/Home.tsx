@@ -70,7 +70,7 @@ export function Home() {
             className="text-5xl md:text-7xl font-bold text-green-800 dark:text-green-400 mb-6"
             variants={itemVariants}
           >
-            Sahayogi Kishan
+            Sahayogi Kisaan
           </motion.h1>
           
           <motion.p
@@ -240,7 +240,7 @@ export function Home() {
 
       <footer className="bg-green-800 dark:bg-green-900 text-white py-4">
         <div className="container mx-auto px-4 text-center">
-          <p>© 2024 Sahayogi Kishan</p>
+          <p>© 2025 Sahayogi Kisaan</p>
         </div>
       </footer>
     </div>

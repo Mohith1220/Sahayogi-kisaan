@@ -22,7 +22,7 @@ export function Header() {
         <div className="flex items-center justify-between">
           <Link to="/" className="flex items-center space-x-2">
             <Store className="w-6 h-6 sm:w-8 sm:h-8 text-white" />
-            <h1 className="text-lg sm:text-2xl font-bold">Sahayogi Kishan</h1>
+            <h1 className="text-lg sm:text-2xl font-bold">Sahayogi Kisaan</h1>
           </Link>
           
           <div className="flex items-center space-x-2 sm:space-x-4">
