@@ -208,7 +208,7 @@ export function Home() {
               className="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-lg"
             >
               <div className="text-4xl font-bold text-green-600 dark:text-green-400 mb-2">25+</div>
-              <div className="text-gray-600 dark:text-gray-300">{t('home.stats.societies')}</div>
+              <div className="text-gray-600 dark:text-gray-300">{t('found societies')}</div>
             </motion.div>
             <motion.div
               variants={itemVariants}
@@ -216,7 +216,7 @@ export function Home() {
               className="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-lg"
             >
               <div className="text-4xl font-bold text-green-600 dark:text-green-400 mb-2">1000+</div>
-              <div className="text-gray-600 dark:text-gray-300">{t('home.stats.farmers')}</div>
+              <div className="text-gray-600 dark:text-gray-300">{t('farmers asked ')}</div>
             </motion.div>
             <motion.div
               variants={itemVariants}
@@ -224,16 +224,9 @@ export function Home() {
               className="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-lg"
             >
               <div className="text-4xl font-bold text-green-600 dark:text-green-400 mb-2">30+</div>
-              <div className="text-gray-600 dark:text-gray-300">{t('home.stats.products')}</div>
+              <div className="text-gray-600 dark:text-gray-300">{t(' villages covered ')}</div>
             </motion.div>
-            <motion.div
-              variants={itemVariants}
-              whileHover={{ scale: 1.05 }}
-              className="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-lg"
-            >
-              <div className="text-4xl font-bold text-green-600 dark:text-green-400 mb-2">15+</div>
-              <div className="text-gray-600 dark:text-gray-300">{t('home.stats.districts')}</div>
-            </motion.div>
+           
           </div>
         </div>
       </motion.section>
